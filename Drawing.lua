@@ -533,3 +533,4 @@ function DrawingLib.new(drawingType)
 	end
 end
 getgenv().Drawing = DrawingLib
+print('[ Krempus ] -> Drawing Library loaded')
